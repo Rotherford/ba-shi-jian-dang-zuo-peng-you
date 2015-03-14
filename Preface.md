@@ -80,4 +80,6 @@
 
 2009年春于北京
 
-[^1]: [^2]: 干(gān)将(jiāng)、莫(mò)邪(yé)均为古宝剑名。相传春秋时期吴人干将与妻莫邪善铸剑，二人耗费三年时间为吴王阖闾铸得阴阳二剑，锋利无比，雄剑名为“干将”，雌剑名为“莫邪”。后因此以“干将”和“莫邪”代称利剑。参见 [http://zh.wikipedia.org/wiki/干将莫邪](http://zh.wikipedia.org/wiki/干将莫邪 "http://zh.wikipedia.org/wiki/干将莫邪") 。
+[^1]: 干(gān)将(jiāng)、莫(mò)邪(yé)均为古宝剑名。相传春秋时期吴人干将与妻莫邪善铸剑，二人耗费三年时间为吴王阖闾铸得阴阳二剑，锋利无比，雄剑名为“干将”，雌剑名为“莫邪”。后因此以“干将”和“莫邪”代称利剑。参见 [http://zh.wikipedia.org/wiki/干将莫邪](http://zh.wikipedia.org/wiki/干将莫邪 "http://zh.wikipedia.org/wiki/干将莫邪") 。
+
+[^2]: 参见注释<a href="#reffn_1">1</a>。
